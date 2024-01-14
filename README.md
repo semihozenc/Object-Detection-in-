@@ -1,6 +1,6 @@
-# objecy_detection
+# Object Detection in Mobile App
 
-A new Flutter project.
+Object detection in Flutter with Tensorflow lite.
 
 ## Getting Started
 
