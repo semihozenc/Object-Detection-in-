@@ -2,6 +2,9 @@
 
 Object detection in Flutter with Tensorflow lite.
 
+<img width="866" alt="image" src="https://github.com/semihozenc/Object-Detection-in-Flutter/assets/100075605/87d21026-6f28-4b22-bf7b-3bd2779bef73">
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
